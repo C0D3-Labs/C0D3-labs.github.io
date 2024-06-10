@@ -26,7 +26,7 @@ Explore job opportunities posted by companies looking to hire talent from within
 
 C0d3-labs is a new platform, and we're continuously working to enhance your experience. We value your feedback and suggestions to make our platform even better. If you have any ideas for new features, improvements, or any other feedback, we'd love to hear from you!
 
-Please feel free to [submit your suggestions](https://c0d3-labs.io/issues) through our feedback form. Your input is invaluable in shaping the future of C0d3-labs and ensuring that we meet the needs of our community.
+Please feel free to [submit your suggestions](https://github.com/C0D3-Labs/C0D3-labs.github.io/issues/1) through our feedback form. Your input is invaluable in shaping the future of C0d3-labs and ensuring that we meet the needs of our community.
 
 ## How to Get Involved
 
