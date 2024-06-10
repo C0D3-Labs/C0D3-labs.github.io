@@ -43,7 +43,3 @@ Please feel free to [submit your suggestions](https://github.com/C0D3-Labs/C0D3-
 ## Code of Conduct
 
 We are committed to maintaining a welcoming and inclusive community where everyone feels respected and valued. Please review our [Code of Conduct](./CODE_OF_CONDUCT.md) to understand our guidelines for respectful behavior and interactions within our community.
-
-## Get in Touch
-
-Have questions or feedback? We'd love to hear from you! Reach out to us via [email](mailto:saip4622@outlook.com).
